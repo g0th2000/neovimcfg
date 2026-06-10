@@ -1,6 +1,5 @@
 -- bootstrap lazy.nvim, LazyVim and your plugins
 require("config.lazy")
-require("lsp.clangd")
 require("lsp.basedpyright")
 require("config.undotree")
 require("config.vim-fugitive")
